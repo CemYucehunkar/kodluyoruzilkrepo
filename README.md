@@ -7,17 +7,21 @@ Bu Repo [Kodluyoruz](http://kodluyoruz.org) ile oluşturduğumuz ilk repo. İçe
 ## İnstallation 
 Öncelikle projeyi clonelayın. (https://github.com/CemYucehunkar/kodluyoruzilkrepo.git)
 
+---
+
 ## Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. Linux için: 
 
-*cd kodluyoruzilkrepo*
-*code*
+* cd kodluyoruzilkrepo *
+* code *
+
+---
 
 ## Contributing
-
-
-
 Pull reguestler kabul edilir. Büyük değişikikler için önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
+
+---
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
