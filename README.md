@@ -17,4 +17,4 @@ code'
 Pull reguestler kabul edilir. Büyük değişikikler için önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 ## License
- MIT
+[MIT](https://choosealicense.com/licenses/mit/)
