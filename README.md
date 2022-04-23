@@ -6,7 +6,7 @@ Bu Repo [Kodluyoruz](http://kodluyoruz.org) ile oluşturduğumuz ilk repo. İçe
 Öncelikle projeyi clonelayın. (https://github.com/CemYucehunkar/kodluyoruzilkrepo.git)
 
 ## Usage 
-Projeyi cloneladıktan sonra Visual Code programında açınız. Linux için: 
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız. Linux için: 
 
 
 'cd kodluyoruzilkrepo
