@@ -11,9 +11,8 @@ Bu Repo [Kodluyoruz](http://kodluyoruz.org) ile oluşturduğumuz ilk repo. İçe
 
 ## Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. 
-Linux için: 
-[](cd kodluyoruzilkrepo
-code .)
+Linux için:
+
 
 *cd kodluyoruzilkrepo*
 *code*
